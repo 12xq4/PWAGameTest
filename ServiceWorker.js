@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PWATest-2021.1.0";
 const contentToCache = [
     "Build/pwa.loader.js",
-    "Build/pwa.framework.js.gz",
-    "Build/pwa.data.gz",
-    "Build/pwa.wasm.gz",
+    "Build/pwa.framework.js",
+    "Build/pwa.data",
+    "Build/pwa.wasm",
     "TemplateData/style.css"
 
 ];
